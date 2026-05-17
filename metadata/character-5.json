@@ -1,0 +1,11 @@
+{
+  "name": "Character 5 - Iron Brawler",
+  "description": "ERC-1155 game character collectible.",
+  "image": "https://picsum.photos/seed/game-character-5/600/600",
+  "attributes": [
+    { "trait_type": "color", "value": "Gray" },
+    { "trait_type": "speed", "value": 41 },
+    { "trait_type": "strength", "value": 96 },
+    { "trait_type": "rarity", "value": "Common" }
+  ]
+}

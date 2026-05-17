@@ -1,0 +1,11 @@
+{
+  "name": "Character 3 - Grove Sentinel",
+  "description": "ERC-1155 game character collectible.",
+  "image": "https://picsum.photos/seed/game-character-3/600/600",
+  "attributes": [
+    { "trait_type": "color", "value": "Green" },
+    { "trait_type": "speed", "value": 48 },
+    { "trait_type": "strength", "value": 92 },
+    { "trait_type": "rarity", "value": "Epic" }
+  ]
+}

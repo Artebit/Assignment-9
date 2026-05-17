@@ -1,0 +1,11 @@
+{
+  "name": "Character 9 - Shadow Duelist",
+  "description": "ERC-1155 game character collectible.",
+  "image": "https://picsum.photos/seed/game-character-9/600/600",
+  "attributes": [
+    { "trait_type": "color", "value": "Black" },
+    { "trait_type": "speed", "value": 94 },
+    { "trait_type": "strength", "value": 63 },
+    { "trait_type": "rarity", "value": "Epic" }
+  ]
+}

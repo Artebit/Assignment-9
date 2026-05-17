@@ -1,0 +1,11 @@
+{
+  "name": "Character 2 - Tide Ranger",
+  "description": "ERC-1155 game character collectible.",
+  "image": "https://picsum.photos/seed/game-character-2/600/600",
+  "attributes": [
+    { "trait_type": "color", "value": "Blue" },
+    { "trait_type": "speed", "value": 84 },
+    { "trait_type": "strength", "value": 58 },
+    { "trait_type": "rarity", "value": "Uncommon" }
+  ]
+}

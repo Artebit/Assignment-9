@@ -1,0 +1,11 @@
+{
+  "name": "Character 1 - Ember Knight",
+  "description": "ERC-1155 game character collectible.",
+  "image": "https://picsum.photos/seed/game-character-1/600/600",
+  "attributes": [
+    { "trait_type": "color", "value": "Red" },
+    { "trait_type": "speed", "value": 62 },
+    { "trait_type": "strength", "value": 88 },
+    { "trait_type": "rarity", "value": "Rare" }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Character 7 - Void Mystic",
+  "description": "ERC-1155 game character collectible.",
+  "image": "https://picsum.photos/seed/game-character-7/600/600",
+  "attributes": [
+    { "trait_type": "color", "value": "Violet" },
+    { "trait_type": "speed", "value": 69 },
+    { "trait_type": "strength", "value": 81 },
+    { "trait_type": "rarity", "value": "Legendary" }
+  ]
+}

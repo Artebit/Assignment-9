@@ -1,0 +1,23 @@
+{
+  "name": "Student Visit Card",
+  "description": "Soulbound ERC-721 visit card NFT for a student.",
+  "image": "https://picsum.photos/seed/student-visit-card/600/600",
+  "attributes": [
+    {
+      "trait_type": "studentName",
+      "value": "Student Name"
+    },
+    {
+      "trait_type": "studentID",
+      "value": "STUDENT-001"
+    },
+    {
+      "trait_type": "course",
+      "value": "Blockchain Development"
+    },
+    {
+      "trait_type": "year",
+      "value": "2026"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Character 10 - Crystal Sage",
+  "description": "ERC-1155 game character collectible.",
+  "image": "https://picsum.photos/seed/game-character-10/600/600",
+  "attributes": [
+    { "trait_type": "color", "value": "White" },
+    { "trait_type": "speed", "value": 57 },
+    { "trait_type": "strength", "value": 73 },
+    { "trait_type": "rarity", "value": "Uncommon" }
+  ]
+}

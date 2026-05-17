@@ -1,0 +1,11 @@
+{
+  "name": "Character 4 - Storm Adept",
+  "description": "ERC-1155 game character collectible.",
+  "image": "https://picsum.photos/seed/game-character-4/600/600",
+  "attributes": [
+    { "trait_type": "color", "value": "Silver" },
+    { "trait_type": "speed", "value": 91 },
+    { "trait_type": "strength", "value": 54 },
+    { "trait_type": "rarity", "value": "Rare" }
+  ]
+}

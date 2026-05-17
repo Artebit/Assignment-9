@@ -1,0 +1,11 @@
+{
+  "name": "Character 6 - Sun Archer",
+  "description": "ERC-1155 game character collectible.",
+  "image": "https://picsum.photos/seed/game-character-6/600/600",
+  "attributes": [
+    { "trait_type": "color", "value": "Gold" },
+    { "trait_type": "speed", "value": 76 },
+    { "trait_type": "strength", "value": 67 },
+    { "trait_type": "rarity", "value": "Uncommon" }
+  ]
+}
